@@ -3,7 +3,6 @@ import React from "react";
 const Footer = () => {
   return (
     <footer>
-      <hr />
       <div className="wrapper footerWrapper">
         <p>&copy; 2024 All Rights Reserved</p>
         <div className="footer__right">
